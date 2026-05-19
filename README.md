@@ -18,3 +18,31 @@ The Vrinda Store Data Analysis reveals valuable insights into customer behaviour
 **Dashboard overview:**
 
 ![Vrinda](Vrinda.PNG)
+
+
+
+# Project 2
+
+**Title:** Employee Data Interrogation and Manipulation
+
+**SQL codes:**
+
+[Employee SQL code](https://github.com/Pelz23/github.io/blob/main/employee.sql)
+
+**SQL skills used:**
+
+Data Retrieval (SELECT): Queried and extracted specific information from the database
+Data Filtering (WHERE) : Applied filter to select relevant data, including filtering by range and lists
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+Data Sorting (ORDER BY): sorts results in ascending or descending order
+String Functions (Upper,Lower):  transform text values
+
+**Project description:**
+
+This project involved writing a series of SQL queries to explore, filter, and organise data from multiple tables within a relational database. The tasks focused on retrieving meaningful information using essential SQL operations such as SELECT, WHERE, ORDER BY, LIMIT, and string‑manipulation functions like UPPER() and LOWER().
+
+The queries extracted key business information including product categories, customer details, employee records, order transactions, supplier data, and stock availability. Several conditions were applied to filter records, such as selecting customers from specific cities, identifying out‑of‑stock products, retrieving orders placed on a particular date, and finding orders shipped later than required. Sorting techniques were used to organise results alphabetically, chronologically, and by numerical values such as freight cost.
+
+Overall, the project demonstrates strong foundational SQL skills, including data retrieval, conditional filtering, text formatting, and result sorting. These queries reflect the ability to navigate a database, extract insights, and prepare structured reports that support business decision‑making.
+
+**Technology Used: SQL Server** 
