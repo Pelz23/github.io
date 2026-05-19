@@ -11,7 +11,7 @@ It further investigates order status patterns, highlights the top 10 states cont
 
 The insights generated from this analysis provide Vrinda Store with a data‑driven foundation for improving customer segmentation, refining marketing strategies, and optimising product offerings.
 
-**findings:**
+**Findings:**
 
 The Vrinda Store Data Analysis reveals valuable insights into customer behaviour and sales performance for the year 2020. The store achieved a total revenue of ₹21,175,878 from 31,046 orders, with women contributing the majority of purchases. March recorded the highest sales and order volume, indicating a seasonal peak in demand. Most orders were successfully delivered, reflecting strong operational efficiency and customer satisfaction. Amazon and Flipkart emerged as the leading sales channels, while a few top-performing states accounted for a significant share of total revenue. The analysis also identified one dominant product category driving sales growth. Overall, these findings highlight Vrinda Store’s strengths in female customer engagement, reliable delivery processes, and effective use of major e-commerce platforms, providing a solid foundation for strategic planning and targeted marketing in 2023.
 
@@ -46,3 +46,27 @@ The queries extracted key business information including product categories, cus
 Overall, the project demonstrates strong foundational SQL skills, including data retrieval, conditional filtering, text formatting, and result sorting. These queries reflect the ability to navigate a database, extract insights, and prepare structured reports that support business decision‑making.
 
 **Technology Used: SQL Server** 
+
+
+
+# Project 3
+
+
+**Title:** [Sales Data Analysis Dashboard](https://github.com/Pelz23/github.io/blob/main/Sales%20Data.xlsx)
+
+**PowerBI skills used:** 
+
+Data Import & Transformation (Data extraction, Data cleaning)
+DAX (Data Analysis Expressions): Calculated measures, aggregated functions
+Data Visualisation & Dashboard Design (Barchart, Line chart, Pie chart,)
+Interactivity & User Experience (Slicers)
+
+**Project description:**
+
+**Findings:**
+
+The sales performance analysis provides a comprehensive view of the company’s operational and commercial health, revealing strong overall results with 14.08M in revenue, 1.30M in profit, and over 158K units sold to more than 15K customers. The findings highlight LATAM and Europe as the organisation’s most profitable and high‑demand regions, while other markets present opportunities for strategic growth. Product profitability varies significantly, with Fishing and Coats emerging as the strongest categories, whereas Water Sports and Men’s Footwear underperform and may require targeted improvement strategies. Monthly revenue trends indicate seasonal fluctuations that should inform future promotional planning. Customer segmentation shows that the Consumer segment drives the majority of sales, supported by meaningful contributions from Corporate clients. Overall, the analysis equips the business with clear, data‑driven insights to strengthen high‑performing areas, address weaknesses, and guide strategic decision‑making for sustained growth.
+
+**Dashboard overview:**
+
+![Sales](Sales.jpeg)
